@@ -1,0 +1,1 @@
+This is for scissor paper stone game.
